@@ -1,0 +1,28 @@
+{
+  "name": "tcrf-tweeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "node-base64-image": "^2.0.1",
+    "node-twitterbot": "^0.2.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marleygf/tcrf-tweeter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marleygf/tcrf-tweeter/issues"
+  },
+  "homepage": "https://github.com/marleygf/tcrf-tweeter#readme"
+}
